@@ -1320,7 +1320,6 @@ function loadJson() {
   }
 })();
 
-toggleGrid();
 
 createPlatform(200, 650, 5, 5);
 createPlatform(350, 600, 5, 5);
